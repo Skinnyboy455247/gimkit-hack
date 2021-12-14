@@ -13,37 +13,37 @@
             'Powerups': [
                 {
                     'name': 'Love Song',
-                    'price': 55
+                    'price': 00
                 }, {
                     'name': 'Clapinator',
-                    'price': 25
+                    'price': 00
                 }, {
                     'name': 'Icer',
-                    'price': 45
+                    'price': 00
                 }, {
                     'name': 'Deflector',
-                    'price': 60
+                    'price': 00
                 }, {
                     'name': 'Rebooter',
-                    'price': 1005
+                    'price': 0000
                 }, {
                     'name': 'Gift',
-                    'price': 205
+                    'price': 000
                 }, {
                     'name': 'Subtractor',
-                    'price': 155
+                    'price': 000
                 }, {
                     'name': 'Reducer',
-                    'price': 135
+                    'price': 000
                 }, {
                     'name': 'Discounter',
-                    'price': 255
+                    'price': 000
                 }, {
                     'name': 'Mini Bonus',
-                    'price': 25
+                    'price': 00
                 }, {
                     'name': 'Mega Bonus',
-                    'price': 55
+                    'price': 00
                 },
             ]
         };
